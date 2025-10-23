@@ -8,6 +8,13 @@ Open to collaborations on projects involving programming, ethical hacking defens
 Enjoy building home labs, performing forensic analysis, and mentoring others in cybersecurity.  
 Reach me at: ngsnetmpls@gmail.com
 
+---
+
+### 🏆 Open Source Contribution
+
+[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/firstcontributions/first-contributions)  
+Contributed to the First Contributions project — first pull request successfully merged on October 22, 2025.  
+Repository: https://github.com/firstcontributions/first-contributions
 
 
 ### Languages and Tools
