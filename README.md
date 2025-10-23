@@ -1,11 +1,15 @@
-# Hi 👋, I'm Ngsnet Hawarya  
-### Cybersecurity & IT Support Professional | Master's in Cybersecurity | Hands-On Practitioner  
+# Hi 👋, I'm Ngsnet Hawarya
 
-🔭 I’m currently working on **phishing defense, malware analysis, and secure home lab design**  
-🌱 I’m learning **ethical hacking, digital forensics, and penetration testing**  
-💬 Ask me about **Linux, Kali, Wireshark, Snort, Nmap, and Azure Security**  
-📫 How to reach me **ngsnet.hawarya@gmail.com**  
-⚡ Fun fact **I love building hands-on cybersecurity labs and mentoring beginners**
+Cybersecurity and IT Support Professional  
+Master's in Cybersecurity | Hands-On Practitioner
+
+I practice ethical hacking and network intrusion testing, and I work on phishing defense, malware analysis, and secure home lab design. I build hands-on labs to research attacks, practice mitigations, and mentor beginners.
+
+I also perform digital forensics and incident response, and I frequently use tools like Kali Linux, Wireshark, Snort, Nmap, and Azure Security to defend systems and investigate incidents.
+
+📫 Reach me: ngsnet.hawarya@gmail.com  
+⚡ Fun fact: I love building hands-on cybersecurity labs and mentoring beginners
+
 
 ---
 
