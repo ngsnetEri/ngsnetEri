@@ -5,7 +5,7 @@ Splunk • Wireshark • Snort • Python • Network Forensics • Malware Anal
 
 ---
 
-Hi All,  
+Hey all  
 I'm Ngsnet Hawarya — a cybersecurity and IT support professional passionate about ethical hacking, network defense, and digital forensics.  
 I hold a Master of Science in Computer Science with a focus on Cybersecurity from Saint Mary’s University of Minnesota.  
 
@@ -15,18 +15,18 @@ Passionate about ethical hacking, network and infrastructure intrusion, penetrat
 Open to collaborations on projects involving programming, ethical hacking defenses, or cloud security.  
 Enjoy building home labs, performing forensic analysis, and mentoring others in cybersecurity.  
 
-📧 Reach me at: ngsnetmpls@gmail.com
+ Reach me at: ngsnetmpls@gmail.com
 
 ---
 
-## 🧩 Open Source Contribution
+##  Open Source Contribution
 
 Contributed to the First Contributions project — first pull request successfully merged on October 22, 2025.  
 🔗 [Repository link](https://github.com/firstcontributions/first-contributions)
 
 ---
 
-## 🛠️ Languages and Tools
+##  Languages and Tools
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -47,7 +47,7 @@ Contributed to the First Contributions project — first pull request successful
 
 ---
 
-## 🧠 Top Cybersecurity Tools
+##  Top Cybersecurity Tools
 
 Kali Linux – professional penetration testing and red-team toolkit  
 Metasploit Framework – exploitation and vulnerability testing platform  
@@ -67,7 +67,7 @@ Hashcat – password recovery and brute-force analysis
 
 ---
 
-## ☁️ Cloud & Automation
+##  Cloud & Automation
 
 Azure Security Center – cloud compliance and protection  
 Docker & VirtualBox – isolated lab environments for testing and simulation  
@@ -75,7 +75,7 @@ MISP – threat intelligence and correlation platform
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 ![Ngsnet G's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngsnetEri&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
 
@@ -83,7 +83,7 @@ MISP – threat intelligence and correlation platform
 
 ---
 
-## 🌐 Connect with me
+##   Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/feed/)  
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com)  
