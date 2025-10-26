@@ -6,7 +6,7 @@ Splunk • Wireshark • Snort • Python • Network Forensics • Malware Anal
 ---
 
 Hi All,  
-I'm **Ngsnet Hawarya** — a cybersecurity and IT support professional passionate about ethical hacking, network defense, and digital forensics.  
+I'm Ngsnet Hawarya — a cybersecurity and IT support professional passionate about ethical hacking, network defense, and digital forensics.  
 I hold a Master of Science in Computer Science with a focus on Cybersecurity from Saint Mary’s University of Minnesota.  
 
 I build and manage secure environments for penetration testing, malware analysis, and network intrusion simulation — blending technical expertise with a strong commitment to proactive and defensive security.  
@@ -15,13 +15,13 @@ Passionate about ethical hacking, network and infrastructure intrusion, penetrat
 Open to collaborations on projects involving programming, ethical hacking defenses, or cloud security.  
 Enjoy building home labs, performing forensic analysis, and mentoring others in cybersecurity.  
 
-📧 Reach me at: **ngsnetmpls@gmail.com**
+📧 Reach me at: ngsnetmpls@gmail.com
 
 ---
 
 ## 🧩 Open Source Contribution
 
-Contributed to the **First Contributions** project — first pull request successfully merged on **October 22, 2025**.  
+Contributed to the First Contributions project — first pull request successfully merged on October 22, 2025.  
 🔗 [Repository link](https://github.com/firstcontributions/first-contributions)
 
 ---
@@ -47,17 +47,39 @@ Contributed to the **First Contributions** project — first pull request succes
 
 ---
 
+## 🧠 Top Cybersecurity Tools
+
+Kali Linux – professional penetration testing and red-team toolkit  
+Metasploit Framework – exploitation and vulnerability testing platform  
+Burp Suite – web application security testing  
+Wireshark – packet inspection and traffic analysis  
+Nmap – network discovery and port scanning  
+Snort / Suricata – intrusion detection and prevention  
+Splunk – SIEM platform for log and event analysis  
+Autopsy – forensic investigation framework  
+Ghidra – reverse-engineering and malware analysis  
+Cuckoo Sandbox – automated malware analysis  
+Volatility – memory forensics and incident response  
+pfSense – open-source firewall and network segmentation  
+OpenVAS – vulnerability scanning and risk analysis  
+Zeek (Bro) – network monitoring and visibility  
+Hashcat – password recovery and brute-force analysis  
+
+---
+
 ## ☁️ Cloud & Automation
 
-**Azure Security Center** – cloud compliance and protection  
-**Docker & VirtualBox** – isolated lab environments for testing and simulation  
-**MISP** – threat intelligence and correlation platform  
+Azure Security Center – cloud compliance and protection  
+Docker & VirtualBox – isolated lab environments for testing and simulation  
+MISP – threat intelligence and correlation platform  
 
 ---
 
 ## 📊 GitHub Stats
 
-![Ngsnet G's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngsnetEri&show_icons=true&theme=tokyonight)
+![Ngsnet G's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ngsnetEri&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ngsnetEri&layout=compact&theme=tokyonight)
 
 ---
 
@@ -67,4 +89,3 @@ Contributed to the **First Contributions** project — first pull request succes
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-red?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?style=flat&logo=github&logoColor=white)](https://github.com/ngsnetEri)  
 [![Email](https://img.shields.io/badge/Email-grey?style=flat&logo=gmail&logoColor=white)](mailto:ngsnetmpls@gmail.com)
-
