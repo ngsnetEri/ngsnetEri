@@ -1,30 +1,12 @@
 <h1 align="left">Hi, I'm Ngsnet H.</h1>
 
+Cybersecurity professional with a Master of Science in Cybersecurity, specializing in ethical hacking, network defense, and digital forensics.  
+Focused on practical approaches to penetration testing, malware analysis, and incident response through open-source security tools.  
+Driven by curiosity, precision, and continuous learning to strengthen systems against evolving threats.
 
-Cybersecurity professional with a Master of Science in Cybersecurity and a focus on ethical hacking, network defense, and digital forensics.  
-My work explores how systems are attacked and defended through hands-on malware behavior analysis, network intrusion detection, and secure architecture design.  
-I maintain a dedicated security lab using open-source technologies (pfSense, Kali Linux, Splunk, REMnux) for forensic analysis, penetration testing, and incident response simulation.  
-I combine Python scripting, automation, and threat intelligence to strengthen defensive capabilities and streamline investigations.
-
----
-
-### Core Cybersecurity Skills
-Network Security • Penetration Testing • Incident Response • Malware Analysis • SIEM • Cloud Security • Vulnerability Management • Identity and Access Management • Cryptography • Scripting and Automation • Critical Thinking • Attention to Detail • Communication • Team Collaboration • Continuous Learning • AI and Machine Learning Security • Zero Trust Architecture • Cyber Threat Intelligence • DevSecOps • Digital Forensics • Blockchain Security
-
----
-
-<p>
-  <a href="https://www.linkedin.com/feed/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:ngsnetmpls@gmail.com">
-    <img src="https://img.shields.io/badge/Email-555555?style=flat&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://github.com/ngsnetEri?tab=repositories">
-    <img src="https://img.shields.io/badge/Open%20Source%20Contributor-181717?style=flat&logo=github&logoColor=white" />
-  </a>
-</p>
-
+- Location: United States  
+- Focus Areas: Network Forensics • SIEM • Intrusion Detection • Pentesting  
+- Currently refining automation and response workflows
 
 ### GitHub Stats
 <!-- If the cards don’t load, keep them as-is; they’ll render on profile. -->
