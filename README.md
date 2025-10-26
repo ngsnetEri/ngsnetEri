@@ -47,23 +47,6 @@ Contributed to the First Contributions project — first pull request successful
 
 ---
 
-##  Top Cybersecurity Tools
-
-Kali Linux – professional penetration testing and red-team toolkit  
-Metasploit Framework – exploitation and vulnerability testing platform  
-Burp Suite – web application security testing  
-Wireshark – packet inspection and traffic analysis  
-Nmap – network discovery and port scanning  
-Snort / Suricata – intrusion detection and prevention  
-Splunk – SIEM platform for log and event analysis  
-Autopsy – forensic investigation framework  
-Ghidra – reverse-engineering and malware analysis  
-Cuckoo Sandbox – automated malware analysis  
-Volatility – memory forensics and incident response  
-pfSense – open-source firewall and network segmentation  
-OpenVAS – vulnerability scanning and risk analysis  
-Zeek (Bro) – network monitoring and visibility  
-Hashcat – password recovery and brute-force analysis  
 
 ---
 
