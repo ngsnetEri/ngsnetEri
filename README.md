@@ -1,13 +1,18 @@
-<h1 align="left">Hi, I'm Ngsnet</h1>
+<h1 align="left">Hi, I'm Ngsnet H.</h1>
 
-A minimal, practical profile focused on cybersecurity, incident response, and hands-on network analysis.  
-I build and manage lab environments for network defense, forensics, and pentesting.
 
-- Location: United States  
-- Focus areas: Network Forensics • SIEM • Intrusion Detection • Pentest Labs  
-- Currently: refining lab automation and incident response workflows
+Cybersecurity professional with a Master of Science in Cybersecurity and a focus on ethical hacking, network defense, and digital forensics.  
+My work explores how systems are attacked and defended through hands-on malware behavior analysis, network intrusion detection, and secure architecture design.  
+I maintain a dedicated security lab using open-source technologies (pfSense, Kali Linux, Splunk, REMnux) for forensic analysis, penetration testing, and incident response simulation.  
+I combine Python scripting, automation, and threat intelligence to strengthen defensive capabilities and streamline investigations.
 
-<!-- Links row -->
+---
+
+### Core Cybersecurity Skills
+Network Security • Penetration Testing • Incident Response • Malware Analysis • SIEM • Cloud Security • Vulnerability Management • Identity and Access Management • Cryptography • Scripting and Automation • Critical Thinking • Attention to Detail • Communication • Team Collaboration • Continuous Learning • AI and Machine Learning Security • Zero Trust Architecture • Cyber Threat Intelligence • DevSecOps • Digital Forensics • Blockchain Security
+
+---
+
 <p>
   <a href="https://www.linkedin.com/feed/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
@@ -16,11 +21,10 @@ I build and manage lab environments for network defense, forensics, and pentesti
     <img src="https://img.shields.io/badge/Email-555555?style=flat&logo=gmail&logoColor=white" />
   </a>
   <a href="https://github.com/ngsnetEri?tab=repositories">
-    <img src="https://img.shields.io/badge/Portfolio-Repos-222?style=flat&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Open%20Source%20Contributor-181717?style=flat&logo=github&logoColor=white" />
   </a>
 </p>
 
----
 
 ### GitHub Stats
 <!-- If the cards don’t load, keep them as-is; they’ll render on profile. -->
